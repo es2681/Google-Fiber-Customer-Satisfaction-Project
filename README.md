@@ -20,10 +20,10 @@ Detailed notes were collected during a project meeting. The objectives of the pl
 - Sylvie Essa, BI Analyst
 
 > #### Stakeholder usage details:
-To understand how often customers are calling customer support after their first inquiry; this will help leaders understand how effectively the team is able to answer customer questions the first time.
+>To understand how often customers are calling customer support after their first inquiry; this will help leaders understand how effectively the team is able to answer customer questions the first time.
 
 > #### Primary requirements:
-An accessible dashboard with large print and text-to-speech alternatives, including the following:
+>An accessible dashboard with large print and text-to-speech alternatives, including the following:
 - A chart or table measuring repeat calls by their first contact date
 - A chart or table exploring repeat calls by market and problem type
 - Charts showcasing repeat calls by week, month, and quarter
@@ -31,14 +31,14 @@ An accessible dashboard with large print and text-to-speech alternatives, includ
 - Explore repeat caller trends in the three different market cities
 - Design charts so that stakeholders can view trends by week, month, quarter, and year
 
-#### Data
-To anonymize and fictionalize the data, the datasets the columns market_1, market_2, and market_3 to indicate three different city service areas the data represents. 
+>#### Data
+>To anonymize and fictionalize the data, the datasets the columns market_1, market_2, and market_3 to indicate three different city service areas the data represents. 
 
-The data also lists five problem types:
-- Type_1 is account management
+>The data also lists five problem types:
+> - Type_1 is account management
 - Type_2 is technician troubleshooting
 - Type_3 is scheduling
 - Type_4 is construction
 - Type_5 is internet and Wi-Fi
 
-Additionally, the dataset also records repeat calls over seven-day periods. The initial contact date is listed as contacts_n. The other call columns are then contacts_n_number of days since first call. For example, contacts_n_6 indicates six days since first contact. 
+> Additionally, the dataset also records repeat calls over seven-day periods. The initial contact date is listed as contacts_n. The other call columns are then contacts_n_number of days since first call. For example, contacts_n_6 indicates six days since first contact. 
